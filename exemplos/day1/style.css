@@ -1,0 +1,31 @@
+h2{
+    border: 1px dashed black;
+}
+
+body{
+    background-color: purple;
+}
+
+body p strong{
+    background-color: aquamarine;
+}
+
+img{
+    border-radius: 50%;
+}
+
+#logo_github {
+    width: 50px;
+}
+
+#logo_django {
+    width: 100px;
+}
+
+p{
+    padding: 3x
+}
+
+p.lorem {
+    border: 5px solid red;
+}
